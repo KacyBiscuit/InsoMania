@@ -45,6 +45,6 @@ public abstract class ServerPlayerEntityMixin {
 			this.sendMessage(Text.translatable("insomania.sleep.phantoms"), true);
 			cir.setReturnValue(Either.left(PlayerEntity.SleepFailureReason.OTHER_PROBLEM));
 		}
-		System.out.println(phantoms);
+		//System.out.println(phantoms);
 	}
 }
