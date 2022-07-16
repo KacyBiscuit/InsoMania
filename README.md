@@ -11,4 +11,4 @@ Also Available on [**CurseForge**](https://www.curseforge.com/minecraft/mc-mods/
 Player being prevented from sleeping due to Phantoms.
 
 # Download
-[[1.19] InsoMania! 1.0.0](https://github.com/KacyBiscuit/InsoMania/releases/download/1.0.0/insomania-0.1.0+1.19.jar)
+[[1.19] InsoMania! 1.0.0](https://github.com/KacyBiscuit/InsoMania/releases/download/1.0.0/insomania-1.0.0+1.19.jar)
